@@ -1,6 +1,6 @@
 # sales-analysis
 
-This project demonstrates how to complete a data analysis project from scratch using Python libraries and Jupyter Notebook. The project focuses on analyzing Diwali sales data to help a company improve customer experience and increase revenue.<br/><br/>
+This project demonstrates how to complete a data analysis project from scratch using Python libraries and Jupyter Notebook or Google Colab. The project focuses on analyzing Diwali sales data to help a company improve customer experience and increase revenue.<br/><br/>
 
 **The project involves the following steps:**<br/>
 **Data Cleaning:** This step includes cleaning the data by removing null values, renaming columns, and removing duplicates.<br/><br/>
